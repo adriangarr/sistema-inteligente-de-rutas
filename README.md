@@ -35,8 +35,4 @@ Desde la raíz del proyecto:
 python -m unittest discover -s pruebas -v
 ```
 
-## Publicación
-1. Crear un repositorio en GitHub o GitLab y subir esta carpeta.
-2. Añadir al tutor como colaborador.
-3. Publicar el video y el mapa conceptual o dejar el mapa dentro del repositorio.
-4. Editar `entrega.pdf` o el README con los enlaces reales. No se deben inventar enlaces antes de crear los recursos.
+
