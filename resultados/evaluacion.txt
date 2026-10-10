@@ -1,0 +1,13 @@
+Registros totales: 600
+Entrenamiento: 450
+Prueba: 150
+Accuracy: 0.9733
+
+                    precision    recall  f1-score   support
+
+      Via Calle 63       0.99      0.96      0.97        79
+Via Museo Nacional       0.96      0.99      0.97        71
+
+          accuracy                           0.97       150
+         macro avg       0.97      0.97      0.97       150
+      weighted avg       0.97      0.97      0.97       150
