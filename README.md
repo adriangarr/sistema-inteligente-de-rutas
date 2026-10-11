@@ -1,4 +1,4 @@
-# Sistema Inteligente de Rutas — Actividad 5
+# Sistema Inteligente de Rutas — Actividad 3
 
 Proyecto académico que integra la búsqueda recursiva de rutas de la entrega anterior con un modelo de aprendizaje supervisado (árbol de decisión).
 
