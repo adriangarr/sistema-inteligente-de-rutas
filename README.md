@@ -12,9 +12,7 @@ El grafo de estaciones se basa en el código compartido en la conversación. El 
 - `documentacion/mapa_conceptual.md`: mapa conceptual en Mermaid.
 - `documentacion/guion_video.md`: guion de video de máximo 10 minutos.
 - `pruebas/test_modelo.py`: pruebas automatizadas.
-- `pruebas/INFORME_PRUEBAS.md`: guía para registrar resultados.
 - `resultados/`: resultados de evaluación de referencia generados al ejecutar el modelo.
-- `entrega.pdf`: documento para enlazar el repositorio y el video cuando estén publicados.
 
 ## Requisitos y ejecución
 Python 3.10 o posterior recomendado.
