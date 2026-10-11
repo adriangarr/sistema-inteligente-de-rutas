@@ -19,6 +19,8 @@ Python 3.10 o posterior recomendado.
 
 ```bash
 python -m pip install -r requirements.txt
+python -m venv venv
+.\venv\Scripts\Activate.ps1
 python modelo_transporte.py
 ```
 
